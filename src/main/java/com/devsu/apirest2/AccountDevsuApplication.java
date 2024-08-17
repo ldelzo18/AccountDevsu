@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevsuApiRestApplication2 {
+public class AccountDevsuApplication {
     public static void main(String[] args) {
-        SpringApplication.run(DevsuApiRestApplication2.class, args);
+        SpringApplication.run(AccountDevsuApplication.class, args);
     }
 }
